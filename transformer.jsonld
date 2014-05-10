@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "us-street-address",
+ "description": "A street address in the U.S.A.",
+ "schema": "string"
+}
